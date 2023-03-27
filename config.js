@@ -12,9 +12,9 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 8 tỉ người mà sao Celeb lại yêu Clear <3',
     btnReply: 'Gửi cho Clear <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Anh làm bạn em hơi bị lâu rồi đó. Từ nay về sau anh sẽ không làm bạn em nữa, anh sẽ là mái ấm của em.',
     mess: 'CLear biết mà 🥰. Yêu Celeb nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 9h, NEET qua nhà Celeb chơi nha. 🥵',
-    btnAccept: 'Dạ ck iu :3 NEET muốn chơi gì cũng được :3 chơi đến sáng lun nha hihi :3💦💦',
+    messDesc: 'Tối nay 9h, Clear qua nhà Celeb chơi nha. 🥵',
+    btnAccept: 'Dạ vk iu :3 Clear muốn chơi gì cũng được :3 chơi đến sáng lun hihi :3💦💦',
     messLink: 'https://www.facebook.com/messages/t/100002981088189' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
