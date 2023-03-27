@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Celeb lỏ",
+    titleWeb: "Celeb x Clear <17",
     introTitle: 'Celeb',
     introDesc: `Trái đất vốn lạ thường
     Mà sao Celeb cứ đi nhầm đường
